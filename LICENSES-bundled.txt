@@ -1,0 +1,10 @@
+This project and source distributions bundle several libraries that are
+compatibly licensed.
+
+
+Name: PyBaMM
+Files: - src/zero_dimension_comparison_sei/parameters/input/Chen2020.py
+       - src/zero_dimension_comparison_sei/models/input/BasicReservoir.py
+       - src/zero_dimension_comparison_sei/models/input/SPM.py
+       - src/zero_dimension_comparison_sei/entry_point.py
+License: BSD-3-Clause
