@@ -1,8 +1,8 @@
-import pytest
-import zero_dimension_comparison_sei
 import importlib.util
 import sys
 from pathlib import Path
+
+import zero_dimension_comparison_sei
 
 
 def test_parameter_sets_entry_points():
