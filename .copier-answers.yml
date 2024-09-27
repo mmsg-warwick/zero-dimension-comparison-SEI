@@ -1,0 +1,17 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_src_path: /home/kawamanmi/.local/lib/python3.11/site-packages
+backend: hatch
+branch: main
+email: kawa.manmi@warwick.ac.uk
+full_name: Kawa Manmi
+license: BSD-3-Clause
+mypy: true
+org: mmsg-warwick
+platform: github
+project_name: zero-dimension-comparison-SEI
+project_short_description: The project compares different common zero-dimensional
+    models (limited mechanisms) for solid electrolyte interphase (SEI) growth in lithium-ion
+    batteries, focusing on the formation cycle and early cycles, using PyBaMM.
+project_slug: zero_dimension_comparison_sei
+url: https://github.com/mmsg-warwick/zero-dimension-comparison-SEI
+vcs: true
