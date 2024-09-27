@@ -127,3 +127,7 @@ Thumbs.db
 # .mypy_cache
 .dmypy.json
 dmypy.json
+
+# Experimental data
+ignore/
+examples/experimental/
