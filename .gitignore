@@ -1,7 +1,7 @@
 # Adapted from the Scientific Python style guide
 # See https://learn.scientific-python.org/development/guides/style/
 
-tests/user_tests/experimental/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
