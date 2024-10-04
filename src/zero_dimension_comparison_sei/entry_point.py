@@ -37,6 +37,7 @@ import textwrap
 from collections.abc import Mapping
 from typing import Callable
 
+
 class EntryPoint(Mapping):
     """
     Dict-like interface for accessing parameter sets and models through entry points in copier template.
