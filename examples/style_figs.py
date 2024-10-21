@@ -1,6 +1,8 @@
 """
 Styling configurations using SciencePlots for project figures and charts.
 """
+import matplotlib.pyplot as plt
+
 
 def set_plotting_format(mode):
     plt.style.use(["science", 'muted'])
