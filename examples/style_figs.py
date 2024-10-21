@@ -2,6 +2,7 @@
 Styling configurations using SciencePlots for project figures and charts.
 """
 import matplotlib.pyplot as plt
+import scienceplots  # noqa: F401 - Required for plt.style.use(["science", 'muted'])
 
 
 def set_plotting_format(mode):
