@@ -37,7 +37,7 @@ This work is supported by [The Faraday Institution](https://www.faraday.ac.uk) "
 ## 🚀 Installing the package
 The package is not yet available on PyPI so it needs to be installed from the source code. These instructions assume that you have a compatible Python version installed (between 3.9 and 3.12).
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > At the moment the code relies on features not yet available in the latest PyBaMM release. Users should reinstall PyBaMM from the branch [kawaMANMI:i3769_Kolzenberg2020](https://github.com/kawaMANMI/PyBaMM/tree/i3769_Kolzenberg2020) after following the steps below.
 
 ### Linux and macOS
