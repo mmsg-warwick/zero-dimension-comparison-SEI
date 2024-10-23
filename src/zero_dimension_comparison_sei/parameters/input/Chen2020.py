@@ -44,7 +44,7 @@ def graphite_LGM50_ocp_Chen2020(sto):
 
     References
     ----------
-    .. [1] Chang-Hui Chen, Ferran Brosa Planella, Kieran O’Regan, Dominika Gastol, W.
+    .. [1] Chang-Hui Chen, Ferran Brosa Planella, Kieran O`Regan, Dominika Gastol, W.
     Dhammika Widanage, and Emma Kendrick. "Development of Experimental Techniques for
     Parameterization of Multi-scale Lithium-ion Battery Models." Journal of the
     Electrochemical Society 167 (2020): 080534.
@@ -80,7 +80,7 @@ def graphite_LGM50_electrolyte_exchange_current_density_Chen2020(
 
     References
     ----------
-    .. [1] Chang-Hui Chen, Ferran Brosa Planella, Kieran O’Regan, Dominika Gastol, W.
+    .. [1] Chang-Hui Chen, Ferran Brosa Planella, Kieran O`Regan, Dominika Gastol, W.
     Dhammika Widanage, and Emma Kendrick. "Development of Experimental Techniques for
     Parameterization of Multi-scale Lithium-ion Battery Models." Journal of the
     Electrochemical Society 167 (2020): 080534.
@@ -115,7 +115,7 @@ def nmc_LGM50_ocp_Chen2020(sto):
 
     References
     ----------
-    .. [1] Chang-Hui Chen, Ferran Brosa Planella, Kieran O’Regan, Dominika Gastol, W.
+    .. [1] Chang-Hui Chen, Ferran Brosa Planella, Kieran O`Regan, Dominika Gastol, W.
     Dhammika Widanage, and Emma Kendrick. "Development of Experimental Techniques for
     Parameterization of Multi-scale Lithium-ion Battery Models." Journal of the
     Electrochemical Society 167 (2020): 080534.
@@ -149,7 +149,7 @@ def nmc_LGM50_electrolyte_exchange_current_density_Chen2020(c_e, c_s_surf, c_s_m
 
     References
     ----------
-    .. [1] Chang-Hui Chen, Ferran Brosa Planella, Kieran O’Regan, Dominika Gastol, W.
+    .. [1] Chang-Hui Chen, Ferran Brosa Planella, Kieran O`Regan, Dominika Gastol, W.
     Dhammika Widanage, and Emma Kendrick. "Development of Experimental Techniques for
     Parameterization of Multi-scale Lithium-ion Battery Models." Journal of the
     Electrochemical Society 167 (2020): 080534.
@@ -186,7 +186,7 @@ def electrolyte_diffusivity_Nyman2008(c_e, T):
     ----------
     .. [1] A. Nyman, M. Behm, and G. Lindbergh, "Electrochemical characterisation and
     modelling of the mass transport phenomena in LiPF6-EC-EMC electrolyte,"
-    Electrochim. Acta, vol. 53, no. 22, pp. 6356–6365, 2008.
+    Electrochim. Acta, vol. 53, no. 22, pp. 6356-6365, 2008.
 
     Parameters
     ----------
@@ -217,7 +217,7 @@ def electrolyte_conductivity_Nyman2008(c_e, T):
     ----------
     .. [1] A. Nyman, M. Behm, and G. Lindbergh, "Electrochemical characterisation and
     modelling of the mass transport phenomena in LiPF6-EC-EMC electrolyte,"
-    Electrochim. Acta, vol. 53, no. 22, pp. 6356–6365, 2008.
+    Electrochim. Acta, vol. 53, no. 22, pp. 6356-6365, 2008.
 
     Parameters
     ----------
