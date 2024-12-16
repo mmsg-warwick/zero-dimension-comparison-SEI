@@ -14,9 +14,9 @@ import pybamm
 from zero_dimension_comparison_sei.entry_point import Model, models, parameter_sets
 
 __all__: list[str] = [
-    "__version__",
-    "pybamm",
-    "parameter_sets",
     "Model",
+    "__version__",
     "models",
+    "parameter_sets",
+    "pybamm",
 ]
