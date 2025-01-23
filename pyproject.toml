@@ -31,7 +31,7 @@ classifiers = [
   "Typing :: Typed",
 ]
 dynamic = ["version"]
-dependencies = ["pybamm",]
+dependencies = ["pybamm >= 25.1",]
 
 [project.optional-dependencies]
 dev = [
