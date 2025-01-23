@@ -9,6 +9,7 @@ build-backend = "hatchling.build"
 name = "zero-dimension-comparison-SEI"
 authors = [
   { name = "Kawa Manmi", email = "kawa.manmi@warwick.ac.uk" },
+  { name = "Ferran Brosa Planella", email = "Ferran.Brosa-Planella@warwick.ac.uk" },
 ]
 description = "The project compares different common zero-dimensional models (limited mechanisms) for solid electrolyte interphase (SEI) growth in lithium-ion batteries, focusing on the formation cycle and early cycles, using PyBaMM."
 readme = "README.md"
@@ -30,7 +31,7 @@ classifiers = [
   "Typing :: Typed",
 ]
 dynamic = ["version"]
-dependencies = ["pybamm",]
+dependencies = ["pybamm >= 25.1",]
 
 [project.optional-dependencies]
 dev = [
