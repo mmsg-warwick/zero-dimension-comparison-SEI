@@ -27,8 +27,7 @@
 
 <!-- prettier-ignore-end -->
 
-The project compares different common zero-dimensional models (limited mechanisms) for solid electrolyte interphase (SEI) growth in lithium-ion batteries, focusing on the formation cycle and early cycles, using PyBaMM.
-es on features not yet available in the latest PyBaMM release. It accompanies the article
+The project compares different common zero-dimensional models (limited mechanisms) for solid electrolyte interphase (SEI) growth in lithium-ion batteries, focusing on the formation cycle and early cycles, using PyBaMM. It accompanies the article
 > K. Manmi, M. Tuchel, E. Kendrick, F. Brosa Planella, [A Comparison of Standard SEI Growth Models in the Context of Battery Formation](https://doi.org/10.1149/1945-7111/ad8548), J. Electrochem. Soc., 171 (2024) 100530.
 
 This work is supported by [The Faraday Institution](https://www.faraday.ac.uk) "Multi-Scale Modelling" project [EP/S003053/1 grant number FIRG059].
